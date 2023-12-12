@@ -193,6 +193,10 @@ footer {
         min-width: 300px;
         padding-bottom: 5px;
     }
+    
+    main {
+        padding-top: 3rem;
+    }
 
 
     :target {
