@@ -191,6 +191,7 @@ footer {
     header {
         display: block;
         min-width: 300px;
+        padding-bottom: 4px;
     }
 
 
